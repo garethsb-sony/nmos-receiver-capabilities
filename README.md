@@ -2,7 +2,7 @@
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
-Here is some text added via StackEdit.
+Here is some text added via StackEdit, which I have edited.
 
 # Files
 
@@ -147,7 +147,7 @@ eyJkaXNjdXNzaW9ucyI6eyJXcGJaU2xESjlyaXFrY21ZIjp7In
 RleHQiOiJXZWxjb21lIHRvIFJlY2VpdmVyIENhcHMhIiwic3Rh
 cnQiOjIsImVuZCI6Mjd9LCJJdkdoU2d6M2VjdjgzY01vIjp7In
 RleHQiOiJIZXJlIGlzIHNvbWUgdGV4dCBhZGRlZCB2aWEgU3Rh
-Y2tFZGl0LiIsInN0YXJ0IjozMjAsImVuZCI6MzU4fX0sImNvbW
+Y2tFZGl0LiIsInN0YXJ0IjozODEsImVuZCI6NDE5fX0sImNvbW
 1lbnRzIjp7IldFa1BadExDVUQ4V2V1TEkiOnsiZGlzY3Vzc2lv
 bklkIjoiV3BiWlNsREo5cmlxa2NtWSIsInN1YiI6ImdvOjExMj
 g0NjE1NDE4NzA4OTAzMzA2OSIsInRleHQiOiJXZSBwcm9iYWJs
@@ -164,7 +164,7 @@ p7ImRpc2N1c3Npb25JZCI6Ikl2R2hTZ3ozZWN2ODNjTW8iLCJz
 dWIiOiJnaDozMTc2MTE1OCIsInRleHQiOiJOb3cgaXMgdGhlIH
 RpbWUgZm9yIGFsbCBnb29kIG1lYW4gdG8gY29tZSB0byB0aGUg
 YWlkIG9mIHRoZSBwYXJ0eSIsImNyZWF0ZWQiOjE2MDI3NjQ2MT
-A4MTR9fSwiaGlzdG9yeSI6WzExMjY0NTIyMDUsODkyNTgyNDIw
-LDEyNjM4MzYwNDIsLTUyMjgzNDg1NCwtMzkzMjI5MzUsLTgxOT
-M2NDg3MCwyMDYwNzE2MTg3LC0zMzI0NTUzNjNdfQ==
+A4MTR9fSwiaGlzdG9yeSI6WzM2ODA1MDExLDg5MjU4MjQyMCwx
+MjYzODM2MDQyLC01MjI4MzQ4NTQsLTM5MzIyOTM1LC04MTkzNj
+Q4NzAsMjA2MDcxNjE4NywtMzMyNDU1MzYzXX0=
 -->

@@ -8,6 +8,8 @@ Here is some text added via StackEdit, which I have edited.
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
+Entering this but haven't pressed sync yet
+
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -164,7 +166,8 @@ p7ImRpc2N1c3Npb25JZCI6Ikl2R2hTZ3ozZWN2ODNjTW8iLCJz
 dWIiOiJnaDozMTc2MTE1OCIsInRleHQiOiJOb3cgaXMgdGhlIH
 RpbWUgZm9yIGFsbCBnb29kIG1lYW4gdG8gY29tZSB0byB0aGUg
 YWlkIG9mIHRoZSBwYXJ0eSIsImNyZWF0ZWQiOjE2MDI3NjQ2MT
-A4MTR9fSwiaGlzdG9yeSI6WzM2ODA1MDExLDg5MjU4MjQyMCwx
-MjYzODM2MDQyLC01MjI4MzQ4NTQsLTM5MzIyOTM1LC04MTkzNj
-Q4NzAsMjA2MDcxNjE4NywtMzMyNDU1MzYzXX0=
+A4MTR9fSwiaGlzdG9yeSI6Wzg5NDk1ODY0MCwzNjgwNTAxMSw4
+OTI1ODI0MjAsMTI2MzgzNjA0MiwtNTIyODM0ODU0LC0zOTMyMj
+kzNSwtODE5MzY0ODcwLDIwNjA3MTYxODcsLTMzMjQ1NTM2M119
+
 -->

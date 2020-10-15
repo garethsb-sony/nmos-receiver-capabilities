@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Welcome to Receiver Caps!
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
@@ -142,5 +142,13 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjQ1NTM2M119
+eyJkaXNjdXNzaW9ucyI6eyJXcGJaU2xESjlyaXFrY21ZIjp7In
+N0YXJ0IjoyLCJlbmQiOjI3LCJ0ZXh0IjoiV2VsY29tZSB0byBS
+ZWNlaXZlciBDYXBzISJ9fSwiY29tbWVudHMiOnsiV0VrUFp0TE
+NVRDhXZXVMSSI6eyJkaXNjdXNzaW9uSWQiOiJXcGJaU2xESjly
+aXFrY21ZIiwic3ViIjoiZ286MTEyODQ2MTU0MTg3MDg5MDMzMD
+Y5IiwidGV4dCI6IldlIHByb2JhYmx5IG5lZWQgdG8gYmUgYSBi
+aXQgbW9yZSBmb3JtYWwuLi4iLCJjcmVhdGVkIjoxNjAyNzU0MT
+A2MDkyfX0sImhpc3RvcnkiOlsyMDYwNzE2MTg3LC0zMzI0NTUz
+NjNdfQ==
 -->
